@@ -3,6 +3,8 @@
 body {
   margin: 0;
   line-height: normal;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 
 .navbarbg {
@@ -910,5 +912,4 @@ body {
   text-align: center;
   font-size: 22px;
   color: #000;
-  font-family: Inter;
 }
